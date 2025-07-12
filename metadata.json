@@ -1,0 +1,5 @@
+{
+  "name": "NCS GP Guide",
+  "description": "A progressive web app (PWA) to assist general practitioners in performing and interpreting nerve conduction studies (NCS), with offline capabilities and Gemini AI expert support.",
+  "requestFramePermissions": []
+}
